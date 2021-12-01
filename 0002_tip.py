@@ -1,3 +1,5 @@
+# utilize "list comprehension" nolugar de "for loops"
+
 # Minha maneira inicial
 squares = []
 for i in range(10):

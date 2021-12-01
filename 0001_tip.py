@@ -1,3 +1,5 @@
+# iteração com enumerates no lugar de range(len(x))
+
 # Minha maneira inicial
 data = [1,2,-3,-4]
 print(f'Primeiro: {data}')
